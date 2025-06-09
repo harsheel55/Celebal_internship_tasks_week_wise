@@ -84,5 +84,3 @@ Build a **File Management Tool** using Node.js core modules.
 
 ---
 
-## 📁 Suggested Folder Structure
-

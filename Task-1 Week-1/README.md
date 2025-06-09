@@ -16,7 +16,7 @@ Install Node.js and build a simple "Hello World" application. Understand the bas
 ```bash
 node -v
 npm -v
-
+```
 # Week -1: Introduction to Node.js
 
 Welcome to the first week of learning **Node.js**! This week is focused on understanding the basics, setting up your environment, and building your first simple Node.js application.

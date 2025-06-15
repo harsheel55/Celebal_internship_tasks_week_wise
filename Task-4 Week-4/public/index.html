@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Express Server</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Express.js Server</h1>
+        <p>Welcome to the basic Express.js web server!</p>
+        
+        <div class="endpoints">
+            <h2>Available Endpoints:</h2>
+            <ul>
+                <li><strong>GET /</strong> - Home page (JSON)</li>
+                <li><strong>GET /about</strong> - About page (JSON)</li>
+                <li><strong>GET /users</strong> - Get all users</li>
+                <li><strong>POST /users</strong> - Create new user</li>
+                <li><strong>GET /api/status</strong> - Server status</li>
+            </ul>
+        </div>
+        
+        <button onclick="testAPI()">Test API Endpoints</button>
+        <div id="results"></div>
+    </div>
+    
+    <script src="script.js"></script>
+</body>
+</html>

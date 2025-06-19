@@ -126,4 +126,4 @@ Harsheel Kasodariya
 ---
 
 ## Contact
-For any queries, contact [your.email@example.com](mailto:your.email@example.com) 
+For any queries, contact [harsheelkasodariya2005@gmail.com](mailto:harsheelkasodariya2005@gmail.com) 

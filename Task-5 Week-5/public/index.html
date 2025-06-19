@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MongoDB CRUD App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>User Management System</h1>
+        
+        <!-- Add User Form -->
+        <div class="form-section">
+            <h2>Add New User</h2>
+            <form id="userForm">
+                <input type="hidden" id="userId">
+                <div class="form-group">
+                    <input type="text" id="name" placeholder="Full Name" required>
+                </div>
+                <div class="form-group">
+                    <input type="email" id="email" placeholder="Email Address" required>
+                </div>
+                <div class="form-group">
+                    <input type="number" id="age" placeholder="Age" min="1" max="120" required>
+                </div>
+                <div class="form-group">
+                    <input type="text" id="city" placeholder="City" required>
+                </div>
+                <button type="submit" id="submitBtn">Add User</button>
+                <button type="button" id="cancelBtn" style="display: none;">Cancel</button>
+            </form>
+        </div>
+
+        <!-- Users List -->
+        <div class="users-section">
+            <h2>Users List</h2>
+            <div id="usersList"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

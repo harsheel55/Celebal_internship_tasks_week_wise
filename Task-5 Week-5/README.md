@@ -121,12 +121,7 @@ MIT
 ---
 
 ## Author
-Your Name
-
----
-
-## Screenshots
-![App Screenshot](screenshot.png)
+Harsheel Kasodariya
 
 ---
 

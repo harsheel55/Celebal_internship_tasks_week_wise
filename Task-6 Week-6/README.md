@@ -327,8 +327,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/harsheel55)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/harsheel-kasodariya-22a31b253/)
+- GitHub: [@harsheel55](https://github.com/harsheel55)
+- LinkedIn: [harsheel kasodariya](https://www.linkedin.com/in/harsheel-kasodariya-22a31b253/)
 - Email: harsheelkasodariya2005@gmail.com
 ## 🙏 Acknowledgments
 

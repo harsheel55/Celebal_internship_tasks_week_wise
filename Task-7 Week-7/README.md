@@ -93,13 +93,13 @@ We use JWT for user authentication and session management. Here’s how it works
 ## 🔧 Environment Variables
 
 Create a `.env` file in the root directory and add:
-
+```
 PORT=5000
 MONGO_URI=mongodb://localhost:27017/authdb
 JWT_SECRET=jwt-token-secret
 JWT_EXPIRE=7d
 NODE_ENV=development
-
+```
 
 ---
 

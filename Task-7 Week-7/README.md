@@ -5,12 +5,7 @@ This project implements a secure, token-based authentication system using **JWT 
 ---
 
 ## 📁 Project Structure
-
-#!/bin/bash
-
-cat << "EOF"
-📁 Project Structure
-
+```
 project-root/
 │
 ├── controllers/
@@ -26,7 +21,7 @@ project-root/
 ├── .env
 ├── server.js
 └── README.md
-EOF
+```
 
 
 ---

@@ -119,7 +119,7 @@ npm install
 npm start
 
 👨‍💻 Author
-Your Name – GitHub
+Harsheel Kasodariya – [harsheel55] (https://github.com/harsheel55)
 
 📄 License
 This project is licensed under the MIT License.

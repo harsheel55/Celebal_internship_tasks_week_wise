@@ -37,15 +37,16 @@ We use JWT for user authentication and session management. Here’s how it works
 1. **User logs in or registers** — receives a **JWT** token.  
 2. Token is stored on client (frontend / Postman) and sent via headers:
 
-1. http://localhost:5000/api/auth/register:
+1. post : http://localhost:5000/api/auth/register:
    ![My Image](register.png)
 
-3. s
-4. s
-5. s
-6. s
-7. s
-8. s
-9. s
-   
+3. post :http://localhost:5000/api/auth/login:
+   ![My Image](login.png)
+4. Get: http://localhost:5000/api/auth/profile:
+   ![My Image](get-profile.png)
+5. Put: http://localhost:5000/api/auth/profile:
+   ![My Image](put-profile.png)
+6. Put : http://localhost:5000/api/auth/change-password:
+   ![My Image](change-password.png)
+
 
